@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial;
+}
+
+#Wrapper{
+    background-color: rgb(187, 167, 167);
+    width: 80%;
+    text-align: center;
+}
+#mainSection{
+    background-color: rgb(92, 2, 2);
+}
+h1, h2, h3 {
+    text-align: center;
+    background-color: rgb(36, 185, 190);
+}
+
+
